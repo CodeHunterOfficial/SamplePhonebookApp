@@ -30,7 +30,7 @@ ASP.NET Identity is ASP.NET's built-in authentication and authorization system. 
 
 ## Technologies used
 * ul AutoMapper
-*ul MailKit (2.15.0)   
+* ul MailKit (2.15.0)   
 * NLog
 * Microsoft.EntityFrameworkCore.SqlServer
-*Microsoft.AspNetCore.Identity.EntityFrameworkCore
+* Microsoft.AspNetCore.Identity.EntityFrameworkCore
