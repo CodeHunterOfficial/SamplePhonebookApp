@@ -29,8 +29,8 @@ ASP.NET Core имеет встроенную поддержку аутентиф
 ASP.NET Identity is ASP.NET's built-in authentication and authorization system. This system allows users to create accounts, authenticate, manage accounts, or use the accounts of external providers such as Facebook, Google, Microsoft, Twitter and others to log into the site.
 
 ## Technologies used
-*ul AutoMapper
+* ul AutoMapper
 *ul MailKit (2.15.0)   
-*NLog
-*Microsoft.EntityFrameworkCore.SqlServer
+* NLog
+* Microsoft.EntityFrameworkCore.SqlServer
 *Microsoft.AspNetCore.Identity.EntityFrameworkCore
